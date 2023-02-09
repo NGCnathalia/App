@@ -1,12 +1,18 @@
+html{
+  background-color: #FFFF8B;
+}
+
 .title {
-  font-family: "Rowdies";
+  font-family: "Titan One";
+  color: #255000;
   font-style: normal;
   font-weight: 400;
   font-size: 50px;
   line-height: 60px;
 }
 #list{
-    font-family: 'Mochiy Pop One';
+    font-family: 'Itim';
+    color: #255000;
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
